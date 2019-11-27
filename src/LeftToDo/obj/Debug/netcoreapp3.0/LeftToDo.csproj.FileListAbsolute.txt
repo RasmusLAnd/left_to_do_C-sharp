@@ -1,0 +1,11 @@
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\bin\Debug\netcoreapp3.0\LeftToDo.exe
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\bin\Debug\netcoreapp3.0\LeftToDo.deps.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\bin\Debug\netcoreapp3.0\LeftToDo.runtimeconfig.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\bin\Debug\netcoreapp3.0\LeftToDo.runtimeconfig.dev.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\bin\Debug\netcoreapp3.0\LeftToDo.dll
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\bin\Debug\netcoreapp3.0\LeftToDo.pdb
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\obj\Debug\netcoreapp3.0\LeftToDo.csprojAssemblyReference.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\obj\Debug\netcoreapp3.0\LeftToDo.AssemblyInfoInputs.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\obj\Debug\netcoreapp3.0\LeftToDo.AssemblyInfo.cs
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\obj\Debug\netcoreapp3.0\LeftToDo.dll
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\src\LeftToDo\obj\Debug\netcoreapp3.0\LeftToDo.pdb
